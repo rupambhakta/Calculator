@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/background"
+    android:background="#023047"
     android:orientation="vertical"
     tools:context=".MainActivity">
     <TextView
@@ -48,6 +48,7 @@
             android:layout_marginBottom="20dp"
             android:layout_marginRight="10dp"
             android:backgroundTint="@color/BtnColor"
+            android:textColor="#E53935"
             android:textStyle="bold"/>
         <Button
             android:layout_height="wrap_content"
@@ -60,6 +61,7 @@
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/txtSquare"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_height="wrap_content"
@@ -68,6 +70,7 @@
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/txtDel"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_height="wrap_content"
@@ -75,6 +78,7 @@
             android:text="("
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/btnLeftparnthesys"
+            android:textColor="#fff"
             android:textSize="20sp"
             android:textStyle="bold"
             />
@@ -88,6 +92,7 @@
             android:layout_marginBottom="20dp"
             android:layout_marginRight="10dp"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_width="wrap_content"
@@ -98,6 +103,7 @@
             android:layout_marginBottom="20dp"
             android:layout_marginRight="10dp"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_width="wrap_content"
@@ -106,6 +112,7 @@
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/btnSlas"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_width="wrap_content"
@@ -139,6 +146,7 @@
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/btnStar"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_width="wrap_content"
@@ -172,6 +180,7 @@
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/btnMainas"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_width="wrap_content"
@@ -205,6 +214,7 @@
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/btnPlus"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
         <Button
             android:layout_width="wrap_content"
@@ -237,6 +247,7 @@
             android:backgroundTint="@color/BtnColor"
             android:id="@+id/btnEqalTo"
             android:textSize="20sp"
+            android:textColor="#fff"
             android:textStyle="bold"/>
 
 
